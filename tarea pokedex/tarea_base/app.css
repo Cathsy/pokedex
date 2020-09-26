@@ -1,0 +1,27 @@
+body {
+  background-color: #ea0000;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#pokedex-container {
+  background-color: white;
+  border-radius: 15px;
+  margin: 0 auto;
+  width: 450px;
+  text-align: center;
+  padding: 15px;
+}
+
+#pokemon-logo {
+  margin: 0 auto;
+  width: 400px;
+}
+
+#pokemon-image {
+  margin: 0 auto;
+  width: 128px;
+}
+
+img[src=""] {
+  display: none;
+}
